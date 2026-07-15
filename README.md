@@ -36,7 +36,7 @@ $$
 P = Ke^{-rT}N{-d_2}-Se^{-qT}N{-d_1}
 $$
 
-where
+where,
 
 $$
 d_1 = \frac{\ln(S/K)+(r-q+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}
@@ -88,7 +88,7 @@ The Program then displays:
 
 # Example Output
 
-! [Program Output] (images/sample_output.png)
+![Program Output](images/sample_output.png)
 
 ---
 
